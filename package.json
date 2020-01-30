@@ -1,6 +1,6 @@
 {
   "name": "ethereum-ens-network-map",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple map of ethereum networks to ENS registry addresses.",
   "main": "index.js",
   "scripts": {
